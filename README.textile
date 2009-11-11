@@ -1,0 +1,7 @@
+h2. Uppskriftasafn
+
+Links:
+* "Recipe brainstorming at microformats.org":http://microformats.org/wiki/recipe-brainstorming
+* "Recipe examples at microformats.org":http://microformats.org/wiki/recipe-examples
+* "Neatly formatted recipe":http://onetsp.com/recipe/bisquick-coffee-cake
+* "Example filled with all kinds of microformats goodies":http://tobyinkster.co.uk/blog/2008/10/23/mushroom-risotto/
